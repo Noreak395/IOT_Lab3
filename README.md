@@ -59,4 +59,4 @@ The hardware is connected to the ESP32 according to the wiring diagram provided 
 
 ### Wiring Diagram
 
-![wiring](wiring_lab3.png)
+![wiring](Wiring_Lab3.jpg)
